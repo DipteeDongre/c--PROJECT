@@ -10,4 +10,5 @@ int main()
     m=a*b;
     cout<<"\n";
     cout<<"multi of a and b is="<<m;
+    
 }
